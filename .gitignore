@@ -1,0 +1,11 @@
+Annotations/
+images/
+debug_visuals/
+extracted_rois/
+PCB_USED/
+rotation/
+
+*.png
+*.jpg
+*.xml
+*.pth
